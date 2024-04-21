@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\resource dotNet\\Dotnet-rpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\service\\characterservice\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\service\\characterservice\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\dtos\\updatecharacterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\dtos\\updatecharacterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\service\\characterservice\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\service\\characterservice\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\dtos\\getcharacterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\dtos\\getcharacterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\dtos\\addcharacterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\dtos\\addcharacterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\dotnet-rpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|d:\\resource dotnet\\dotnet-rpg\\dotnet-rpg\\models\\rpgclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B4F9F-4087-41DB-AD75-5339275C7348}|Dotnet-rpg\\Dotnet-rpg.csproj|solutionrelative:dotnet-rpg\\models\\rpgclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterService.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Service\\CharacterService\\CharacterService.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Service\\CharacterService\\CharacterService.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Service\\CharacterService\\CharacterService.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Service\\CharacterService\\CharacterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:15:37.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Models\\Character.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Models\\Character.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Models\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:14:23.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Controllers\\CharacterController.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Controllers\\CharacterController.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Controllers\\CharacterController.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Controllers\\CharacterController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:28:44.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCharacterRequestDto.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dtos\\UpdateCharacterRequestDto.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Dtos\\UpdateCharacterRequestDto.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dtos\\UpdateCharacterRequestDto.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Dtos\\UpdateCharacterRequestDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:37:40.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Program.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Program.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Program.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:32:36.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICharacterService.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Service\\CharacterService\\ICharacterService.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Service\\CharacterService\\ICharacterService.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Service\\CharacterService\\ICharacterService.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Service\\CharacterService\\ICharacterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:15:20.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCharacterResponseDto.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dtos\\GetCharacterResponseDto.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Dtos\\GetCharacterResponseDto.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dtos\\GetCharacterResponseDto.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Dtos\\GetCharacterResponseDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:49:02.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCharacterRequestDto.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dtos\\AddCharacterRequestDto.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Dtos\\AddCharacterRequestDto.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dtos\\AddCharacterRequestDto.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Dtos\\AddCharacterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:49:23.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Models\\ServiceResponse.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:11:55.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dotnet-rpg.csproj",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dotnet-rpg.csproj",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Dotnet-rpg.csproj",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Dotnet-rpg.csproj",
+              "RelativeToolTip": "Dotnet-rpg\\Dotnet-rpg.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T05:14:03.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RpgClass.cs",
+              "DocumentMoniker": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Models\\RpgClass.cs",
+              "RelativeDocumentMoniker": "Dotnet-rpg\\Models\\RpgClass.cs",
+              "ToolTip": "D:\\resource dotNet\\Dotnet-rpg\\Dotnet-rpg\\Models\\RpgClass.cs",
+              "RelativeToolTip": "Dotnet-rpg\\Models\\RpgClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:22:55.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
